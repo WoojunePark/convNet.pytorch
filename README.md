@@ -1,5 +1,7 @@
 # Convolutional networks using PyTorch
 
+[author's youtube video on original paper](https://www.youtube.com/watch?v=inCvI7VGvq0&feature=youtu.be)
+
 This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
 
 Available models include:
